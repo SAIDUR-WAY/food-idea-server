@@ -15,6 +15,13 @@ app.get('/chefs', (req, res)=>{
      res.send(chefs)
 })
 
+app.get('/chefs/:id',(req, res)=>{
+     const id = req.params.id;
+     console.log(id)
+     const chefdetails = chefs.find(chef => chef.id === id)
+     res.send(chefdetails)
+})
+
 app.listen(port, ()=>{
      console.log('food app running')
 })
