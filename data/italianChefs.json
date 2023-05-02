@@ -1,0 +1,209 @@
+[
+     {
+       "chefName": "Gennaro Contaldo",
+       "id": "gennaro-contaldo",
+       "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyN6UXZCqN4GzP5Ou0wPth3xvfx3v5PfKzOg&usqp=CAU",
+       "photoUrl": "https://www.designthelifestyleyoudesire.com/wp-content/uploads/2018/01/Gennaro-Contaldo.jpg",
+       "bio": "Gennaro Contaldo is an Italian chef and restaurateur, known for his association with chef Jamie Oliver and for his appearances on various television shows. He is widely regarded as one of the UK’s leading authorities on Italian cuisine.",
+       "numberOfRecipes": 80,
+       "yearOfExperience": 35,
+       "recipesInfo": [
+         {
+           "recipeName": "Spaghetti Carbonara",
+           "ingredients": [
+             "spaghetti",
+             "pancetta",
+             "eggs",
+             "parmesan",
+             "black pepper"
+           ],
+           "cookingMethod": "Boil spaghetti until al dente. Fry pancetta until crispy. Whisk eggs, parmesan, and black pepper together. Mix everything together and serve hot.",
+           "rating": 4.8
+         },
+         {
+           "recipeName": "Pesto Alla Genovese",
+           "ingredients": [
+             "basil leaves",
+             "garlic",
+             "pine nuts",
+             "parmesan",
+             "olive oil"
+           ],
+           "cookingMethod": "Blend basil, garlic, pine nuts, and parmesan in a food processor. Slowly add olive oil until a smooth paste forms. Serve over pasta or use as a dip.",
+           "rating": 4.5
+         }
+       ]
+     },
+     {
+          "chefName": "Andrea Accordi",
+          "id": "andrea-accordi",
+          "chefPicture": "https://hotmagazine.website/wp-content/uploads/2021/02/Andrea-Accordi.jpg",
+          "photoUrl": "https://img.ihned.cz/attachment.php/170/77048170/u2MBdKQtycblPj64zATxIWU09OqiGwS7/accordi.jpg",
+          "bio": "Andrea Accordi is an Italian chef with a passion for traditional Italian cooking. He has worked in some of the most prestigious restaurants in Italy and is known for his authentic recipes and commitment to using high-quality, locally-sourced ingredients.",
+          "numberOfRecipes": 50,
+          "yearOfExperience": 20,
+          "recipesInfo": [
+            {
+              "recipeName": "Pasta alla Norma",
+              "ingredients": ["pasta", "eggplant", "tomatoes", "garlic", "ricotta salata"],
+              "cookingMethod": "Cook pasta until al dente. Fry eggplant until golden brown. Sauté garlic and tomatoes in a pan. Mix pasta with eggplant, tomato sauce, and grated ricotta salata. Serve hot.",
+              "rating": 4.7
+            },
+            {
+              "recipeName": "Tiramisu",
+              "ingredients": ["ladyfingers", "espresso", "Marsala wine", "egg yolks", "sugar", "mascarpone cheese", "cocoa powder"],
+              "cookingMethod": "Mix espresso and Marsala wine in a bowl. Dip ladyfingers in the mixture and place them in a serving dish. Mix egg yolks and sugar in a double boiler until thick. Add mascarpone cheese and mix well. Spread the mixture over the ladyfingers. Refrigerate for at least 2 hours. Sprinkle cocoa powder on top before serving.",
+              "rating": 4.8
+            }
+          ]
+        },
+        
+        {
+          "chefName": "Massimiliano Alajmo",
+          "id": "massimiliano-alajmo",
+          "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCuv6exMMXcFASkpHTJTPIi_RqrpK6qHP3A&usqp=CAU",
+          "photoUrl": "https://cdn.shopify.com/s/files/1/0508/7356/5353/files/zafferano_max_header_3_x800.jpg?v=1668177477",
+          "bio": "Massimiliano Alajmo is an Italian chef and restaurateur who has earned three Michelin stars for his restaurant Le Calandre in Rubano, near Padua. He is known for his innovative approach to traditional Italian cuisine.",
+          "numberOfRecipes": 45,
+          "yearOfExperience": 25,
+          "recipesInfo": [
+            {
+              "recipeName": "Pumpkin Tortellini with Sage and Parmesan",
+              "ingredients": [
+                "pumpkin puree",
+                "ricotta cheese",
+                "nutmeg",
+                "salt",
+                "pepper",
+                "pasta dough",
+                "unsalted butter",
+                "sage leaves",
+                "Parmesan cheese"
+              ],
+              "cookingMethod": "Combine pumpkin puree, ricotta cheese, nutmeg, salt, and pepper to make the filling. Roll out the pasta dough and cut into squares. Add a small amount of filling to each square and fold into tortellini. Boil in salted water until tender. In a separate pan, melt butter and fry sage leaves until crisp. Serve tortellini with the sage butter and grated Parmesan cheese.",
+              "rating": 4.9
+            },
+            {
+              "recipeName": "Veal Roulade with Prosciutto and Parmesan",
+              "ingredients": [
+                "veal cutlets",
+                "prosciutto",
+                "Parmesan cheese",
+                "bread crumbs",
+                "eggs",
+                "parsley",
+                "garlic",
+                "olive oil",
+                "salt",
+                "pepper"
+              ],
+              "cookingMethod": "Pound veal cutlets thin and season with salt and pepper. Layer each cutlet with prosciutto, Parmesan cheese, bread crumbs, parsley, and garlic. Roll up tightly and secure with toothpicks. Brown the roulades in olive oil in a pan, then transfer to the oven and bake until cooked through. Serve hot.",
+              "rating": 4.7
+            }
+          ]
+        },
+        {
+          "chefName": "Bruno Barbieri",
+          "id": "bruno-barbieri",
+          "chefPicture": "https://media.gettyimages.com/id/472128170/photo/italian-chef-awarded-with-many-michelin-stars-and-judge-at-the-show-broadcasted-by-skyuno.jpg?s=612x612&w=gi&k=20&c=9hcaNkZlJQAh5eAJPavcm0_PUo-LSCI9FSnDzVt2X1Q=",
+          "photoUrl": "https://cdn.shopify.com/s/files/1/2403/8187/files/Bruno_Barbieri_wears_The_LEMTOSH_22218.jpg?v=1527261104",
+          "bio": "Bruno Barbieri is an Italian chef and television personality. He has owned and worked in several Michelin-starred restaurants throughout his career, including Le Trifolau in Piedmont and the eponymous Bruno Barbieri in Rimini. He is also known for his appearances on several cooking competition shows in Italy.",
+          "numberOfRecipes": 60,
+          "yearOfExperience": 35,
+          "recipesInfo": [
+            {
+              "recipeName": "Tagliatelle with Bolognese Sauce",
+              "ingredients": [
+                "tagliatelle pasta",
+                "ground beef",
+                "tomato paste",
+                "onion",
+                "garlic",
+                "carrots",
+                "celery",
+                "beef stock"
+
+              ],
+              "cookingMethod": "Cook tagliatelle pasta in boiling salted water until al dente. In a separate pan, sauté onion, garlic, carrots, and celery until softened. Add ground beef and cook until browned",
+              "rating": 4.6
+              
+          },
+            {
+              "recipeName": "Tagliatelle with Bolognese Sauce",
+              "ingredients": [
+                "tagliatelle pasta",
+                "ground beef",
+                "tomato paste",
+                "onion",
+                "garlic",
+                "carrots",
+                "celery",
+                "beef stock"
+
+              ],
+              "cookingMethod": "Cook tagliatelle pasta in boiling salted water until al dente. In a separate pan, sauté onion, garlic, carrots, and celery until softened. Add ground beef and cook until browned",
+              "rating": 4.6
+              
+          }
+          ]
+     },        
+     {
+       "chefName": "Antonio Carluccio",
+       "id": "antonio-carluccio",
+       "chefPicture": "https://i2-prod.walesonline.co.uk/incoming/article13876273.ece/ALTERNATES/s615b/carluccio.jpg",
+       "photoUrl": "https://cdn.images.express.co.uk/img/dynamic/14/590x/547627_1.jpg",
+       "bio": "Antonio Carluccio was an Italian chef, restaurateur, and television personality who became well known in the UK as the founder of the restaurant chain Carluccio’s. He was also known for his many cookbooks and television shows.",
+       "numberOfRecipes": 120,
+       "yearOfExperience": 50,
+       "recipesInfo": [
+         {
+           "recipeName": "Risotto ai Funghi",
+           "ingredients": [
+             "arborio rice",
+             "mushrooms",
+             "white wine",
+             "onion",
+             "parmesan"
+           ],
+           "cookingMethod": "Sauté onion and mushrooms in a pan. Add rice and stir until coated. Add white wine and stir until absorbed. Gradually add hot stock, stirring frequently, until rice is cooked. Stir in parmesan and serve hot.",
+           "rating": 4.7
+         },
+         {
+           "recipeName": "Pizza Margherita",
+           "ingredients": [
+             "flour",
+             "yeast",
+             "tomato sauce",
+             "mozzarella",
+             "basil"
+           ],
+           "cookingMethod": "Make a dough by mixing flour, yeast, and water. Roll out the dough and add tomato sauce, mozzarella, and basil. Bake in a hot oven until crispy.",
+           "rating": 4.6
+         }
+       ]
+     },
+     {
+       "chefName": "Massimo Bottura",
+       "id": "gennaro-contalda",
+       "chefPicture": "https://www.bellavita.com/media/images/d0c27daa435afe15163c29c66125d8fef49246a1.width-600.jpg",
+       "photoUrl": "https://i.insider.com/5ba2576704f16219008b6010?width=1200&format=jpeg",
+       "bio": "Gennaro Contaldo is an Italian chef and restaurateur, known for his association with chef Jamie Oliver and for his appearances on various television shows. He is widely regarded as one of the UK’s leading authorities on Italian cuisine.",
+       "numberOfRecipes": 80,
+       "yearOfExperience": 35,
+       "recipesInfo": [
+         {
+           "recipeName": "Spaghetti Carbonara",
+           "ingredients": ["spaghetti", "pancetta", "eggs", "parmesan", "black pepper"],
+           "cookingMethod": "Boil spaghetti until al dente. Fry pancetta until crispy. Whisk eggs, parmesan, and black pepper together. Mix everything together and serve hot.",
+           "rating": 4.8
+         },
+         {
+           "recipeName": "Pesto Alla Genovese",
+           "ingredients": ["basil leaves", "garlic", "pine nuts", "parmesan", "olive oil"],
+           "cookingMethod": "Blend basil, garlic, pine nuts, and parmesan in a food processor. Slowly add olive oil until a smooth paste forms. Serve over pasta or use as a dip.",
+           "rating": 4.5
+         }
+       ]
+     }
+   ]
+ 
