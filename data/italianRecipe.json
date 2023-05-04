@@ -1,0 +1,45 @@
+ [
+       {
+         "id": "spaghetti-carbonara",
+         "name": "Spaghetti Carbonara",
+         "img": "https://lh3.googleusercontent.com/jIyrGvTIqbWHxUJCK2mWVlW9_JkTL9PwskVGwW3o1Xux3AHpd6Ux5DQOkTeBjTbLxtGGW_butzUkB19ei7dmS9o-aT1wmBZzR7J_BxI",
+         "shortDescription": "Classic Italian pasta dish with bacon, eggs, and cheese.",
+         "rating": 4.8
+       },
+       {
+         "id": "lasagna",
+         "name": "Lasagna",
+         "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1273588_8-8139dd6.jpg?quality=90&webp=true&resize=300,272",
+         "shortDescription": "Baked pasta dish with layers of noodles, sauce, and cheese.",
+         "rating": 4.7
+       },
+       {
+         "id": "pizza-margherita",
+         "name": "Pizza Margherita",
+         "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-51643_11-2f4a2cc.jpg?quality=90&webp=true&resize=300,272",
+         "shortDescription": "Classic Neapolitan pizza with tomato sauce, mozzarella, and basil.",
+         "rating": 4.9
+       },
+       {
+         "id": "risotto-alla-milanese",
+         "name": "Risotto alla Milanese",
+         "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-52074_11-ca58d45.jpg?quality=90&webp=true&resize=300,272",
+         "shortDescription": "Creamy rice dish flavored with saffron and Parmesan cheese.",
+         "rating": 4.6
+       },
+       {
+         "id": "tiramisu",
+         "name": "Tiramisu",
+         "img": "https://images.immediate.co.uk/production/volatile/sites/30/2021/11/Tiramisu-trifle-4585cd1.jpg?quality=90&webp=true&resize=300,272",
+         "shortDescription": "Layered dessert made with ladyfingers, coffee, and mascarpone cheese.",
+         "rating": 4.9
+       },
+       {
+         "id": "Pasta alla vodka",
+         "name": "Pasta alla vodka",
+         "img": "https://images.immediate.co.uk/production/volatile/sites/30/2021/04/Pasta-alla-vodka-f1d2e1c.jpg?quality=90&webp=true&resize=300,272",
+         "shortDescription": "Sit back and tuck into a big bowl of pasta alla vodka, a creamy tomato pasta with.",
+         "rating": 4.6
+       }
+     ]
+   
